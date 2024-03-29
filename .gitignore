@@ -1,0 +1,15 @@
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore Visual Studio project files
+ToDoTasks.csproj
+ToDoTasks.sln
+
+# Ignore specific configuration files
+appsettings.Development.json
+appsettings.json
+
+# Ignore specific directories
+Pages/
+Properties/
